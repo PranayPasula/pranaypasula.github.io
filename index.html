@@ -1,0 +1,16 @@
+---
+layout: default
+title: Home
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <article class="post">
+    <h1 class="post-title">
+      {{ post.title }}
+    </h1>
+    <br>
+    {{ post.content }}
+  </article>
+  {% endfor %}
+</div>
