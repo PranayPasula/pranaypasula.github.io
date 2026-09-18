@@ -1,7 +1,7 @@
 # Setup
 title: Pranay Pasula
 tagline: 
-url: pranaypasula@github.io
+url: "https://pranaypasula.github.io"
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -34,7 +34,7 @@ ga_analytics: UA-169958553-1
 # Specify the author for blog posts
 author:
   name: Pranay Pasula
-  url: pranaypasula.com
+  url: "https://pranaypasula.com/"
   email: pasula@berkeley.edu
 
 # Custom vars
