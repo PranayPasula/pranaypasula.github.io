@@ -13,7 +13,7 @@ I am an AI Research Executive, Leadership and Chair for top AI conferences, and 
 
 I work in research and application of frontier AI fields to push forth other fields alongside domain experts on some of the frontier problems in the world.
 
-I'm fortunate to have been advised by Dawn Song and Rouxi Jia at UC Berkeley EECS as well as mentored by Pieter Abbeel and Sergey Levine who have humbly served as models towards my human-first, AI-transformative, and combined research towards understanding and scalable application paradigm with what I work on.
+I'm fortunate to have been advised by Prof. Dawn Song and Prof. Ruoxi Jia at UC Berkeley EECS. I graciously was mentored by Pieter Abbeel and Sergey Levine, both whom have shaped me towards my human-first, AI-transformative, and research -> understanding -> scalable application mindset.
 
-I develop machine learning algorithms as well as software and systems that accelerate these algorithms with the aim ti understand machine intelligence better and leverage it in ways that progress humanity's understanding of this and of important problems through this.
+I develop machine learning algorithms as well as software and systems that accelerate these algorithms with the aim to understand machine intelligence better and leverage it in ways that progress humanity's understanding of fundamental phenomena.
 </div>
